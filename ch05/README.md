@@ -1,3 +1,8 @@
+## Notebooks
+* [back_prop_mul_add.ipynb](back_prop_mul_add.ipynb)
+* [back_prop_activation.ipynb](back_prop_activation.ipynb)
+* [back_prop_two_layer_net.ipynb](back_prop_two_layer_net.ipynb)
+  
 ## 파일 설명
 | 파일명 | 파일 용도 | 관련 절 | 페이지 |
 |:--   |:--      |:--    |:--      |
