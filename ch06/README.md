@@ -3,7 +3,6 @@
 * [initialization.ipynb](initialization.ipynb)
 * [batch_normalization.ipynb](batch_normalization.ipynb)
 * [overfit_weight_decay.ipynb](overfit_weight_decay.ipynb)
-* [overfit_weight_decay.ipynb](overfit_weight_decay.ipynb)
 * [overfit_dropout.ipynb](overfit_dropout.ipynb)
   
 ## 파일 설명
