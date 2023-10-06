@@ -1,3 +1,6 @@
+## Notebooks
+* [compare_optimizers_for_mnist.ipynb](compare_optimizers_for_mnist.ipynb)
+
 ## 파일 설명
 | 파일명 | 파일 용도 | 관련 절 | 페이지 |
 |:--   |:--      |:--    |:--      |
