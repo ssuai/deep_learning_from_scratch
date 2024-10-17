@@ -1,3 +1,7 @@
+## Notebooks
+* [train_convnet.ipynb](train_convnet.ipynb)
+* [visualize_filter_output.ipynb](visualize_filter_output.ipynb)
+
 ## 파일 설명
 | 파일명 | 파일 용도 | 관련 절 | 페이지 |
 |:--   |:--      |:--    |:--      |
