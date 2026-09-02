@@ -1,4 +1,4 @@
-from unittest import TestCase
+from unittest import TestCase, main
 
 from and_gate import AND
 
@@ -19,3 +19,7 @@ class Test(TestCase):
     def test_and_11(self):
         y = AND(1, 1)
         self.assertEqual(y, 1)
+
+
+if __name__ == '__main__':
+    main()
